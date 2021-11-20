@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "bin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "South Korea"
+  bio              : "제가 어떤 사람인 지 함께 알아가요 👻"
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
