@@ -1,1 +1,1 @@
-
+Linguaskill card news images
