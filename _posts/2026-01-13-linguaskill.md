@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "점수 말고 실력으로 증명하는 영어시험, 링구아스킬"
+title: "[캠브리지 서포터즈] 점수 말고 실력으로 증명하는 영어시험, 링구아스킬"
 date: 2026-01-13
 categories: [English, Linguaskill]
 tags: [WriteAndImprove, 링구아스킬, AI영어시험, 영어작문, 영작연습, 영어첨삭, 무료영어공부, 캠브리지영어시험, Linguaskill, CambridgeEnglish, CEFR, 취업준비, 비즈니스영어]
