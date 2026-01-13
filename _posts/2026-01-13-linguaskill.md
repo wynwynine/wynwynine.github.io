@@ -27,10 +27,10 @@ tags: [WriteAndImprove, 링구아스킬, AI영어시험, 영어작문, 영작연
 ## 📌 Linguaskill 카드뉴스
 
 ![01]({{ site.baseurl }}/assets/images/linguaskill/cover.png)
-![01]({{ site.baseurl }}/assets/images/linguaskill/page01.png)
-![02]({{ site.baseurl }}/assets/images/linguaskill/page02.png)
-![03]({{ site.baseurl }}/assets/images/linguaskill/page03.png)
-![04]({{ site.baseurl }}/assets/images/linguaskill/page04.png)
+![02]({{ site.baseurl }}/assets/images/linguaskill/page01.png)
+![03]({{ site.baseurl }}/assets/images/linguaskill/page02.png)
+![04]({{ site.baseurl }}/assets/images/linguaskill/page03.png)
+![05]({{ site.baseurl }}/assets/images/linguaskill/page04.png)
 
 ---
 
